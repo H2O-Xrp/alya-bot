@@ -2,10 +2,10 @@
   "name": "alya-bot",
   "version": "1.0.0",
   "description": "Alya WhatsApp Bot - AI-powered assistant with vision, learning, and scheduled tasks",
-  "main": "alya29.js",
+  "main": "alya36.js",
   "scripts": {
-    "start": "node alya29.js",
-    "dev": "node --watch alya29.js"
+    "start": "node alya36.js",
+    "dev": "node --watch alya36.js"
   },
   "dependencies": {
     "@hapi/boom": "^10.0.1",
