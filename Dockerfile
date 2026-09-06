@@ -33,4 +33,4 @@ RUN mkdir -p /app/sesi
 ENV TZ=Asia/Jakarta
 
 # Run bot
-CMD ["node", "alya29.js"]
+CMD ["node", "alya36.js"]
