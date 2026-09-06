@@ -23,7 +23,7 @@ COPY package.json ./
 RUN npm install --production
 
 # Copy bot files
-COPY alya29.js ./
+COPY alya36.js ./
 COPY config.json* ./
 
 # Create session directory
